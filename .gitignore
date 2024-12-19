@@ -1,0 +1,12 @@
+#ignore the nfs files made in mobaxterm
+*.nfs
+#ignore the compiled files
+*.out
+*.exe
+#ignore the html files downloaded in the retriever
+*.html
+# ignore the specifc compiled files i have
+retriever
+webserver
+#ignore the readme file
+README.md
